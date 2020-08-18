@@ -1,4 +1,9 @@
-# The Gravwell Ingest API
+# ARCHIVED
+
+This repo has been archived, visit the [mono repo](https://github.com/gravwell/gravwell) for current code.
+
+
+## The Gravwell Ingest API
 
 API documentation: [godoc.org/github.com/gravwell/ingest](https://godoc.org/github.com/gravwell/ingest)
 
